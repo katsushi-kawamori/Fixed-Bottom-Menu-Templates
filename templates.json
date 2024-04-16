@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "slug": "default",
+      "name": "Default template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html.php",
+        "template_css": "fixedbottommenu-template-css.php",
+        "css": "fixedbottommenu.css"
+      }
+    },
+    {
+      "slug": "old",
+      "name": "Old template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html-old.php",
+        "template_css": "fixedbottommenu-template-css-old.php",
+        "css": "fixedbottommenu-old.css"
+      }
+    }
+  ]
+}
