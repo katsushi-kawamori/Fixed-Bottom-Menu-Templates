@@ -5,7 +5,7 @@
  * @package WordPress
  * @subpackage Fixed Bottom Menu
  * @since Fixed Bottom Menu 2.00
- * @version 1.00
+ * @version 1.01
  */
 
 ?>
@@ -21,9 +21,9 @@
   background-color: <?php echo esc_attr( $backcolor ); ?>;
 }
 .fixed-bottom-menu-item {
-  -webkit-flex-basis: <?php echo esc_attr( 100 / $this->column ); ?>%;
-  -ms-flex-preferred-size: <?php echo esc_attr( 100 / $this->column ); ?>%;
-  flex-basis: <?php echo esc_attr( 100 / $this->column ); ?>%;
+  -webkit-flex-basis: <?php echo esc_attr( 100 / $columns ); ?>%;
+  -ms-flex-preferred-size: <?php echo esc_attr( 100 / $columns ); ?>%;
+  flex-basis: <?php echo esc_attr( 100 / $columns ); ?>%;
 }
 .fixed-bottom-menu-item a {
   color: <?php echo esc_attr( $color ); ?>;

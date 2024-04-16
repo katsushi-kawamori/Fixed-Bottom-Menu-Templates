@@ -3,7 +3,7 @@
     {
       "slug": "default",
       "name": "Default template",
-      "version": "1.00",
+      "version": "1.01",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
       "files": {
@@ -15,7 +15,7 @@
     {
       "slug": "old",
       "name": "Old template",
-      "version": "1.00",
+      "version": "1.01",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
       "files": {

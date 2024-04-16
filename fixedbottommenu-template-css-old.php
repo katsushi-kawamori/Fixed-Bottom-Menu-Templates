@@ -5,7 +5,7 @@
  * @package WordPress
  * @subpackage Fixed Bottom Menu
  * @since Fixed Bottom Menu 2.00
- * @version 1.00
+ * @version 1.01
  */
 
 ?>
@@ -18,7 +18,7 @@ ul.fixed-bottom-menu {
   z-index: <?php echo esc_attr( $zindex ); ?>;
 }
 ul.fixed-bottom-menu li {
-  width: <?php echo esc_attr( 100 / $this->column ); ?>%;
+  width: <?php echo esc_attr( 100 / $columns ); ?>%;
 }
 .fixed-bottom-menu li a {
   color: <?php echo esc_attr( $color ); ?>;

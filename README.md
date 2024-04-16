@@ -1,7 +1,6 @@
 # Fixed Bottom Menu Templates
 
 This template is for the [WordPress](https://wordpress.org/) plugin [Fixed Bottom Menu](https://wordpress.org/plugins/fixed-bottom-menu/).
-
 Anyone can pull request your own template.
 
 Once approved, it will be included in [Fixed Bottom Menu](https://wordpress.org/plugins/fixed-bottom-menu/), users will be able to select your template, and you will become a contributor to [Fixed Bottom Menu](https://wordpress.org/plugins/fixed-bottom-menu/).
@@ -80,12 +79,16 @@ fixedbottommenu-template-css-(template slug name). (php/css)
 
 # Usage
 
+## Hook
+| tag | Parameter1 | Parameter2 | Parameter3 | Meaning |
+| --- | --- | --- | --- | --- |
+| fbm_icon_display | Column Number (Int) | Icon type (String) | Class name for text (String) | Display of icon, URL links, and text |
+
+## Variable
 | Variable name | Type | Meaning | Filter |
 | --- | --- | --- | --- |
-| $this->column | Array | number of culumns. |  |
-| $icon_type | String | Iconn type |  |
-| $this->colmun_filters | Function | Get the URL and text of each column from the column number and icon type. |  |
-| $column_value | Array | Icon type, URL, and text for each column. | |
+| $columns | Int | number of culumns. |  |
+| $icon_type | String | Icon type |  |
 | $fontsize | String | Font Sizes | fbm_fontsize |
 | $height | String | Menu Height | fbm_height |
 | $height_a | String | Line Height | fbm_height_a |
