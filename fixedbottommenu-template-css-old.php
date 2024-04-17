@@ -5,11 +5,12 @@
  * @package WordPress
  * @subpackage Fixed Bottom Menu
  * @since Fixed Bottom Menu 2.00
- * @version 1.01
+ * @version 1.02
  */
 
 ?>
-.fixed-bottom-menu-text {
+
+.<?php echo esc_html( $text_class ); ?> {
   font-size: <?php echo esc_attr( $fontsize ); ?>;
 }
 ul.fixed-bottom-menu {

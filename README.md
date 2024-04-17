@@ -80,25 +80,26 @@ fixedbottommenu-template-css-(template slug name). (php/css)
 # Usage
 
 ## Hook
-| tag | Parameter1 | Parameter2 | Parameter3 | Meaning |
+| tag | Parameter1 | Parameter2 | Meaning |
 | --- | --- | --- | --- | --- |
-| fbm_icon_display | Column Number (Int) | Icon type (String) | Class name for text (String) | Display of icon, URL links, and text |
+| `fbm_icon_display` | Column Number (Int) | Icon type (String) | Display of icon, URL links, and text |
 
 ## Variable
 | Variable name | Type | Meaning | Filter |
 | --- | --- | --- | --- |
-| $columns | Int | number of culumns. |  |
-| $icon_type | String | Icon type |  |
-| $fontsize | String | Font Sizes | fbm_fontsize |
-| $height | String | Menu Height | fbm_height |
-| $height_a | String | Line Height | fbm_height_a |
-| $padding_top_a | String | Padding Top | fbm_padding_top_a |
-| $footer_class | String | Footer class | fbm_footer_class |
-| $backcolor | String | Background color | fbm_backcolor |
-| $color | String | Text color | fbm_color |
-| $overcolor | String | Overlay Color | fbm_overcolor |
-| $minwidth | Int | Max Width | fbm_minwidth |
-| $zindex | Int | Stacking order | fbm_zindex |
+| `$columns` | Int | number of culumns. |  |
+| `$icon_type` | String | Icon type |  |
+| `$text_class` | String | Class name for text(`fixed-bottom-menu-text`) |  |
+| `$fontsize` | String | Font Sizes | fbm_fontsize |
+| `$height` | String | Menu Height | fbm_height |
+| `$height_a` | String | Line Height | fbm_height_a |
+| `$padding_top_a` | String | Padding Top | fbm_padding_top_a |
+| `$footer_class` | String | Footer class | fbm_footer_class |
+| `$backcolor` | String | Background color | fbm_backcolor |
+| `$color` | String | Text color | fbm_color |
+| `$overcolor` | String | Overlay Color | fbm_overcolor |
+| `$minwidth` | Int | Max Width | fbm_minwidth |
+| `$zindex` | Int | Stacking order | fbm_zindex |
 
 # Author
 

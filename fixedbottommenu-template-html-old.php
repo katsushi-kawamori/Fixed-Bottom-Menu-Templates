@@ -5,7 +5,7 @@
  * @package WordPress
  * @subpackage Fixed Bottom Menu
  * @since Fixed Bottom Menu 2.00
- * @version 1.01
+ * @version 1.02
  */
 
 ?>
@@ -15,7 +15,7 @@
 	for ( $i = 1; $i <= $columns; $i++ ) {
 		?>
 		<li>
-			<?php do_action( 'fbm_icon_display', $i, $icon_type, 'fixed-bottom-menu-text' ); ?>
+			<?php do_action( 'fbm_icon_display', $i, $icon_type ); ?>
 		</li>
 		<?php
 	}
