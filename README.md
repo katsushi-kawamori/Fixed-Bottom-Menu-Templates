@@ -81,7 +81,7 @@ fixedbottommenu-template-css-(template slug name). (php/css)
 
 ## Hook
 | tag | Parameter1 | Parameter2 | Meaning |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | `fbm_icon_display` | Column Number (Int) | Icon type (String) | Display of icon, URL links, and text |
 
 ## Variable
