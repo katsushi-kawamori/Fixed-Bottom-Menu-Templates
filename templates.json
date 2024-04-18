@@ -23,6 +23,42 @@
         "template_css": "fixedbottommenu-template-css-old.php",
         "css": "fixedbottommenu-old.css"
       }
+    },
+    {
+      "slug": "right",
+      "name": "Right template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html-right.php",
+        "template_css": "fixedbottommenu-template-css-right.php",
+        "css": "fixedbottommenu-right.css"
+      }
+    },
+    {
+      "slug": "top",
+      "name": "Top template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html-top.php",
+        "template_css": "fixedbottommenu-template-css-top.php",
+        "css": "fixedbottommenu-top.css"
+      }
+	},
+    {
+      "slug": "left",
+      "name": "Left template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html-left.php",
+        "template_css": "fixedbottommenu-template-css-left.php",
+        "css": "fixedbottommenu-left.css"
+      }
     }
   ]
 }

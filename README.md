@@ -90,6 +90,8 @@ fixedbottommenu-template-css-(template slug name). (php/css)
 | `$columns` | Int | number of culumns. |  |
 | `$icon_type` | String | Icon type |  |
 | `$text_class` | String | Class name for text(`fixed-bottom-menu-text`) |  |
+| `$fontsize_num` | Float | Font Sizes numeric | fbm_fontsize_num |
+| `$fontsize_unit` | String | Font Sizes unit | fbm_fontsize_unit |
 | `$fontsize` | String | Font Sizes | fbm_fontsize |
 | `$height` | String | Menu Height | fbm_height |
 | `$height_a` | String | Line Height | fbm_height_a |
