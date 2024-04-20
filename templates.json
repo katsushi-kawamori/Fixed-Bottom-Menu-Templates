@@ -59,6 +59,18 @@
         "template_css": "fixedbottommenu-template-css-left.php",
         "css": "fixedbottommenu-left.css"
       }
+    },
+    {
+      "slug": "bottomright",
+      "name": "Bottom and Right template",
+      "version": "1.00",
+      "author": "Katsushi Kawamori",
+      "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
+      "files": {
+        "template_html": "fixedbottommenu-template-html-bottomright.php",
+        "template_css": "fixedbottommenu-template-css-bottomright.php",
+        "css": "fixedbottommenu-bottomright.css"
+      }
     }
   ]
 }
