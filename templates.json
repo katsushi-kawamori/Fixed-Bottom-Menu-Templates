@@ -3,6 +3,7 @@
     {
       "slug": "default",
       "name": "Default template",
+      "description" : "This is default template. Display at the bottom.",
       "version": "1.02",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
@@ -15,6 +16,7 @@
     {
       "slug": "old",
       "name": "Old template",
+      "description" : "This is old template. Display at the bottom.",
       "version": "1.02",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
@@ -27,6 +29,7 @@
     {
       "slug": "right",
       "name": "Right template",
+      "description" : "Display at the right.",
       "version": "1.00",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
@@ -39,6 +42,7 @@
     {
       "slug": "top",
       "name": "Top template",
+      "description" : "Display at the top.",
       "version": "1.00",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
@@ -51,6 +55,7 @@
     {
       "slug": "left",
       "name": "Left template",
+      "description" : "Display at the left.",
       "version": "1.00",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
@@ -63,6 +68,7 @@
     {
       "slug": "bottomright",
       "name": "Bottom and Right template",
+      "description" : "It is displayed at the bottom when the screen is narrow and at the right when the screen is wide. Switching depends on the value of \"Max Width\".",
       "version": "1.00",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",

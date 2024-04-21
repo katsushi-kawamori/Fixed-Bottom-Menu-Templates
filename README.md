@@ -77,6 +77,9 @@ File name:
 fixedbottommenu-template-html-(template slug name). (php/html)
 fixedbottommenu-template-css-(template slug name). (php/css)
 
+# Overview file
+* The file `templates.json`, which describes the outline of the template, needs to be edited.
+
 # Usage
 
 ## Hook
