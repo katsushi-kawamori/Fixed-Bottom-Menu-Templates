@@ -68,7 +68,7 @@
     {
       "slug": "bottomright",
       "name": "Bottom and Right template",
-      "description" : "It is displayed at the bottom when the screen is narrow and at the right when the screen is wide. Switching depends on the value of \"Max Width\".",
+      "description" : "It is displayed at the bottom when the screen is narrow and at the right when the screen is wide. Switching depends on the value of [Max Width].",
       "version": "1.00",
       "author": "Katsushi Kawamori",
       "author_link": "https://profiles.wordpress.org/katsushi-kawamori/",
